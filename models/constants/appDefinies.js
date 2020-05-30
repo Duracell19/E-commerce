@@ -1,0 +1,10 @@
+export const LOG_IN_URL = 'http://34.73.95.65?rt=a/account/login';
+export const CART_URL = 'http://34.73.95.65?rt=a/checkout/cart';
+export const CATEGORY_URL = 'http://34.73.95.65?rt=a/product/category&category_id={0}';
+export const PRODUCT_BY_FILTER_URL = 'http://34.73.95.65?rt=a/product/filter&category_id={0}&limit={1}';
+export const REACT_IMAGE = 'https://s3.amazonaws.com/media-p.slid.es/uploads/alexanderfarennikov/images/1198519/reactjs.png';
+export const THUMB_URL = 'http:{0}';
+export const LOG_IN_NAME_FORM_DATA = 'loginname';
+export const PASSWORD_FORM_DATA = 'password';
+export const TOKEN = 'token';
+export const DATE_FORMAT = '{0}: {1}';

@@ -1,0 +1,11 @@
+export const FULL_NAME = 'FULL_NAME';
+export const EMAIL_ADDRESS = 'EMAIL_ADDRES';
+export const PASSWORD = 'PASSWORD';
+export const CONFIRM_PASSWORD = 'CONFIRM_PASSWORD';
+export const AUTH_TOKEN = 'AUTH_TOKEN';
+export const TOKEN_IS_LOADED = 'TOKEN_IS_LOADED';
+export const MY_PROFILE_IS_LOADED = 'MY_PROFILE_IS_LOADED';
+export const CATEGORIES = 'CATEGORIES';
+export const CATEGORIES_LIST = 'CATEGORIES_LIST';
+export const ORDERS = 'ORDERS';
+export const ORDERS_IS_LOADED = 'ORDERS_IS_LOADED';

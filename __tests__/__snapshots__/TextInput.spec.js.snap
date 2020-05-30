@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimpleTextInput Rendering should match to snapshot 1`] = `
+<Component
+  allowFontScaling={true}
+  onChangeText={[Function]}
+  placeholder="Enter Email"
+  rejectResponderTermination={true}
+  style={
+    Object {
+      "alignSelf": "stretch",
+      "borderBottomColor": undefined,
+      "borderBottomWidth": 0.8,
+      "fontSize": 20,
+      "margin": 5,
+      "paddingBottom": 10,
+      "paddingTop": 10,
+    }
+  }
+  underlineColorAndroid="transparent"
+/>
+`;
